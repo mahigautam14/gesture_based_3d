@@ -1,4 +1,4 @@
-# AetherBuild
+# Gesture detect 3D
 
 **AetherBuild** is a browser based **gesture controlled 3D scene editor** that allows users to create and manipulate 3D objects using **natural two hand interactions** tracked via a webcam.
 
@@ -19,7 +19,7 @@ Instead of using a mouse or keyboard, users build and interact with 3D objects *
 
 ## How It Works
 
-AetherBuild follows a clean real-time pipeline:
+Gesture follows a clean real-time pipeline:
 
 
 
@@ -58,8 +58,8 @@ Gesture states are displayed live below the webcam feed for clarity and debuggin
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourname/aetherbuild.git
-cd aetherbuild
+git clone https://github.com/yourname/gesture_detect_3D.git
+cd gesture_based_3D
 ```
 
 ### 2. Install dependencies
